@@ -1,0 +1,55 @@
+.wrapper{
+width: 20%;
+margin-left: 33em;
+border-style: solid;
+border-color: #785439;
+border-radius: 3px;
+border-width: 3px;
+background-color:#dcd4cd;
+}
+article{
+    margin: .5em;
+    line-height: 1.5rem;
+    color: #512200;
+}
+h1{
+  font-family: 'Dosis', sans-serif;
+}
+ul li{
+  list-style-type:none;
+}
+.list{
+  line-height: 1.5rem;
+  color: #512200;
+  list-style-type: none;
+}
+.li2{
+  position: absolute;
+  bottom: 13.5em;
+  left: 40em;
+  font-style: italic;
+}
+.btn{
+    background-color: #512200;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: .5em .75em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: .875rem;
+    margin: 1em 5.7em;
+    cursor: pointer;
+    font-family: 'Dosis';
+}
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-style: solid;
+    border-width: 1px;
+    color: #9a816d;
+}
